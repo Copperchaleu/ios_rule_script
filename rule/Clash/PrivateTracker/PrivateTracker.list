@@ -239,9 +239,11 @@ DOMAIN-SUFFIX,passthepopcorn.me
 DOMAIN-SUFFIX,pornbits.net
 DOMAIN-SUFFIX,privatehd.to
 DOMAIN-SUFFIX,pterclub.com
+DOMAIN_SUFFIX,pterclub.net
 DOMAIN-SUFFIX,pthome.net
 DOMAIN-SUFFIX,ptsbao.club
 DOMAIN-SUFFIX,pttime.org
+DOMAIN_SUFFIX,pttime.fun
 DOMAIN-SUFFIX,pussytorrents.org
 DOMAIN-SUFFIX,qingwa.pro
 DOMAIN-SUFFIX,redacted.ch
@@ -264,6 +266,8 @@ DOMAIN-SUFFIX,xauat6.edu.cn
 DOMAIN_SUFFIX,cspt.top
 DOMAIN_SUFFIX,cspt.cc
 DOMAIN_SUFFIX,cspt.date
+DOMAIN_SUFFIX,novahd.top
+
 DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,chdbits
 DOMAIN-KEYWORD,m-team
